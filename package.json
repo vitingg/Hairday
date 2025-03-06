@@ -1,0 +1,11 @@
+{
+  "name": "hairday",
+  "description": "Aplicação Web de agendamento para corte de cabelo",
+  "author": "Victor Gabriel",
+  "scripts": {
+    "server": "json-server --watch server.json --port 3333"
+  },
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
